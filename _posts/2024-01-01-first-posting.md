@@ -21,7 +21,7 @@ toc_label: 목차
 
 
 
-![IMG_0219.PNG](C:\github\teddynote.github.io\images\2023-09-26-first\IMG_0219.PNG.png)
+
 
 어떻게 사진을 올렸네요.
 
