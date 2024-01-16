@@ -11,25 +11,21 @@ toc_label: 목차
 
 안녕하세요 반갑습니다.
 
-![장원영](C:\github\teddynote.github.io\images\2023-09-26-first\장원영.jpg)
+![장원영](../images/2024-01-01-first-posting/장원영.jpg)
+
+
+
+![jang2](../images/2024-01-01-first-posting/jang2.jpg)
 
 
 
 
 
-![jang2](C:\github\teddynote.github.io\images\2023-09-26-first\jang2.jpg)
 
 
+풍경
 
-
-
-어떻게 사진을 올렸네요.
-
-
-
-
-
-## 목차
+## ![IMG_0219.PNG](../images/2024-01-01-first-posting/IMG_0219.PNG.png)
 
 - 목차1
 - 목차2
